@@ -1,0 +1,65 @@
+.feature-block-3 {
+	background: #ffffff;
+	background-size: cover;
+	background-position: center;
+	padding: 100px 0;
+	color: #141414;
+	font-family: 'Nunito', sans-serif;
+}
+
+.feature-block-3 .btn {
+	background: #141414;
+	color: #ffffff;
+	padding: 15px 35px;
+	min-width: 150px;
+	margin-bottom: 1.2em;
+	font-weight: 300;
+	font-size: 1rem;
+}
+
+.feature-block-3 .btn:hover {
+	background: #333333;
+}
+
+.feature-block-3 h1 {
+	font-size: 2.75rem;
+	font-weight: 300;
+	margin-bottom: 0.8em;
+	line-height: 1.4;
+}
+
+.feature-block-3 h2 {
+	font-size: 1.65rem;
+	font-weight: 400;
+	margin-bottom: 2.25em;
+	line-height: 1.5;
+}
+
+.feature-block-3 h3 {
+	font-size: 1.15rem;
+	font-weight: 700;
+	margin-bottom: 0.8em;
+	line-height: 1.4;
+	color: #fb0007;
+}
+
+.feature-block-3 p {
+	font-size: 1rem;
+	font-weight: 300;
+	margin-bottom: 3em;
+	line-height: 1.4;
+}
+
+.feature-block-3 .fa {
+	font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+	.feature-block-3 h1 {
+		font-size: 2.45rem;
+	}
+	.feature-block-3 h2 {
+		font-size: 1.05rem;
+		margin-bottom: 2em;
+	}
+}
